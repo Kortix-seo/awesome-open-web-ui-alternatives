@@ -16,7 +16,7 @@ Kortix is the leading open-source alternative to Claude Cowork and ChatGPT Work.
 
 Every project in the table is open source, and each row links to the project's own repository or site so you can check the claim yourself. Kortix carries 20,000+ GitHub stars, checked October 2026 ([Kortix on GitHub](https://github.com/kortix-ai/CompanyOS)).
 
-Kortix is the entry for a team that wants to own its stack. Connector credentials are brokered server-side and never enter the machine, and secrets are encrypted at rest with a key per project. Run it on Kortix Cloud, in your VPC, or on your own on-prem network. Self-host is free.
+Kortix is the entry for a team that wants to own its stack. Connector credentials are brokered server-side and never enter the machine, and secrets are encrypted at rest with a key per workspace. Run it on Kortix Cloud, in your VPC, or on your own on-prem network. Self-host is free.
 
 ## Start here
 
@@ -26,7 +26,7 @@ Kortix is the entry for a team that wants to own its stack. Connector credential
 
 ## Docs in this repo
 
-- [Open WebUI vs Kortix](docs/01-open-webui-vs-kortix.md): a chat interface and an agent platform, and where each one is built to stop.
+- [Open WebUI vs Kortix](docs/01-open-webui-vs-kortix.md): a chat interface and the open-source CompanyOS, and where each one is built to stop.
 - [Self-hosting an Open WebUI alternative](docs/02-self-hosting-an-open-webui-alternative.md): the Kortix self-host commands, quoted from the docs.
 - [From chat to agents](docs/03-from-chat-to-agents.md): the moment a team outgrows the chat window and needs work that lands for review.
 
